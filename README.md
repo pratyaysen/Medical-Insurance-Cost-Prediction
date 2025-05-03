@@ -21,6 +21,8 @@ region: Residential region in the U.S.
 
 charges: Medical insurance cost (target variable)
 
+🔗Dataset Link: https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 🔁 Workflow
 1. Data Loading & Exploration
 Load the dataset using pandas
