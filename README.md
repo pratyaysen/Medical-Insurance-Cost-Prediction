@@ -1,5 +1,6 @@
 # Medical-Insurance-Cost-Prediction
 🏥 Medical Insurance Cost Prediction Using Machine Learning
+
 📌 Project Overview
 This project focuses on building a Machine Learning model to predict the medical insurance cost for individuals based on various personal and lifestyle-related factors. Insurance companies require accurate cost estimations to determine fair premiums, while individuals can gain insights into how their health and habits affect their insurance expenses. The model is implemented using a supervised learning algorithm — Linear Regression, which is ideal for predicting continuous outcomes.
 
